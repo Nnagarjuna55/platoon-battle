@@ -1,4 +1,3 @@
-// backend/logic.js
 const advantageMap = {
     Militia: ['Spearmen', 'LightCavalry'],
     Spearmen: ['LightCavalry', 'HeavyCavalry'],
